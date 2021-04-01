@@ -1,0 +1,28 @@
+body {
+    background-image: url('../img/fondo.jpg');
+}
+h1, h3 {
+    text-align: center;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+}
+img {
+    border-radius: 25px;
+    margin: 50px;
+}
+img:hover{
+    filter: brightness(0.5);
+    transition: 0.5s;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    margin-left: 150px;
+}
